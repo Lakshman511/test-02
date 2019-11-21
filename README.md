@@ -1,1 +1,4 @@
 # test-02
+## Result
+ACCURACY - 99.45
+PARAMETERS - 15K(15548)
